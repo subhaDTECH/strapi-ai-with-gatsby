@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "admin2",
+  "info": {
+    "singularName": "admin",
+    "pluralName": "admin2",
+    "displayName": "messages"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "greeting": {
+      "type": "string"
+    }
+  }
+}

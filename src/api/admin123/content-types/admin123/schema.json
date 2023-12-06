@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "admin1234",
+  "info": {
+    "singularName": "admin123",
+    "pluralName": "admin1234",
+    "displayName": "mess"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "greet": {
+      "type": "string"
+    }
+  }
+}
